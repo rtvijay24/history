@@ -67,4 +67,4 @@ def question5():
         {'a': 'Greek Empire', 'b': 'Egyptian Empire', 'c': 'Roman Empire', 'd': 'Persian Empire'},
         'c'
     )
-
+questions = [question1, question2, question3, question4, question5]
