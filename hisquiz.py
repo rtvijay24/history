@@ -35,3 +35,11 @@ def ask_question(question, options, correct):
         print(RED + f"Wrong! Correct answer is '{correct}'.\n" + RESET)
         return False
 
+
+def question1():
+    return ask_question(
+        "Who was the first President of the United States?",
+        {'a': 'George Washington', 'b': 'Thomas Jefferson', 'c': 'Abraham Lincoln', 'd': 'John Adams'},
+        'a'
+    )
+
