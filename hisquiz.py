@@ -54,3 +54,11 @@ def question3():
         {'a': 'Mongols', 'b': 'Romans', 'c': 'Vikings', 'd': 'Ottomans'},
         'a'
     )
+    
+def question4():
+    return ask_question(
+        "Who discovered America in 1492?",
+        {'a': 'Ferdinand Magellan', 'b': 'Christopher Columbus', 'c': 'Vasco da Gama', 'd': 'James Cook'},
+        'b'
+    )
+
