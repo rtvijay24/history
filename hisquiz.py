@@ -13,3 +13,8 @@ RESET = '\033[0m']
 
 def print_banner():
     print(CYAN + "\n🏺 Welcome to the History Quiz! 🏺\n" + RESET)
+
+    def print_question(q, options):
+    print(YELLOW + q + RESET)
+    for key, val in options.items():
+        print(f"  {key}) {val}")
