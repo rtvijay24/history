@@ -3,3 +3,11 @@ def history_quiz():
     pass
 def print_banner():
     print("Welcome to the History Quiz!")
+
+
+RED = '\033[91m'
+GREEN = '\033[92m'
+YELLOW = '\033[93m'
+CYAN = '\033[96m'
+RESET = '\033[0m']
+
