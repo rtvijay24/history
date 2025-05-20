@@ -61,4 +61,10 @@ def question4():
         {'a': 'Ferdinand Magellan', 'b': 'Christopher Columbus', 'c': 'Vasco da Gama', 'd': 'James Cook'},
         'b'
     )
+def question5():
+    return ask_question(
+        "Which empire was ruled by Julius Caesar?",
+        {'a': 'Greek Empire', 'b': 'Egyptian Empire', 'c': 'Roman Empire', 'd': 'Persian Empire'},
+        'c'
+    )
 
