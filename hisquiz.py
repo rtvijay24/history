@@ -48,3 +48,9 @@ def question2():
         {'a': '1942', 'b': '1945', 'c': '1939', 'd': '1950'},
         'b'
     )
+def question3():
+    return ask_question(
+        "The Great Wall of China was primarily built to protect against which group?",
+        {'a': 'Mongols', 'b': 'Romans', 'c': 'Vikings', 'd': 'Ottomans'},
+        'a'
+    )
