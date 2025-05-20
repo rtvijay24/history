@@ -18,3 +18,10 @@ def print_banner():
     print(YELLOW + q + RESET)
     for key, val in options.items():
         print(f"  {key}) {val}")
+
+def get_valid_input():
+    while True:
+        ans = input("Enter your answer (a/b/c/d): ").lower()
+        if ans in ['a', 'b', 'c', 'd']:
+            return ans
+        print(RED + "Invalid input, try again." + RESET)
