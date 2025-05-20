@@ -166,4 +166,15 @@ def ask_replay():
         print("Thanks for playing!")
 if __name__ == "__main__":
     run_history_quiz()
+"""
+History Quiz Module
+Includes a multiple-choice history quiz game with scoring and replay.
+"""
 
+import time
+
+RED = '\033[91m'
+GREEN = '\033[92m'
+YELLOW = '\033[93m'
+CYAN = '\033[96m'
+RESET = '\033[0m'
