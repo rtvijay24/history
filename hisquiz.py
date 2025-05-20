@@ -164,4 +164,6 @@ def ask_replay():
         run_history_quiz()
     else:
         print("Thanks for playing!")
+if __name__ == "__main__":
+    run_history_quiz()
 
