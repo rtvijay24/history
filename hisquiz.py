@@ -42,4 +42,9 @@ def question1():
         {'a': 'George Washington', 'b': 'Thomas Jefferson', 'c': 'Abraham Lincoln', 'd': 'John Adams'},
         'a'
     )
-
+def question2():
+    return ask_question(
+        "In which year did World War II end?",
+        {'a': '1942', 'b': '1945', 'c': '1939', 'd': '1950'},
+        'b'
+    )
