@@ -158,7 +158,7 @@ def get_valid_input():
             return ans
         print(RED + "Invalid input, try again." + RESET)
 
-def ask_replay():
+define ask_replay():
     answer = safe_input("Do you want to play again? (y/n): ").lower()
     if answer == 'y':
         run_history_quiz()
