@@ -1,8 +1,10 @@
-
-def history_quiz():
+<<<<<<< HEAD
+defineee history_quiz():
+=======
+define history_quiz():
+>>>>>>> sp
     """Main function placeholder for History Quiz."""
     pass
-def print_banner():
 def print_banner():
     print("Welcome to the History Quiz!")
 
