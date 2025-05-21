@@ -1,4 +1,4 @@
-def history_quiz():
+define history_quiz():
     """Main function placeholder for History Quiz."""
     pass
 def print_banner():
