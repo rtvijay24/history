@@ -2,11 +2,12 @@
 def history_quiz():
     """Main function placeholder for History Quiz."""
     pass
+def print_banner():
 <<<<<<< HEAD
-defff print_banner():
+dddef print_banner():
 =======
-deeef print_banner():
->>>>>>> rt
+ddddef print_banner():
+>>>>>>> tt
     print("Welcome to the History Quiz!")
 
 
