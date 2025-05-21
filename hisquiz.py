@@ -171,7 +171,7 @@ History Quiz Module
 Includes a multiple-choice history quiz game with scoring and replay.
 """
 
-import time
+import time (for timer )
 
 RED = '\033[91m'
 GREEN = '\033[92m'
