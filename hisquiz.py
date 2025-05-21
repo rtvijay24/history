@@ -3,8 +3,9 @@ def history_quiz():
     """Main function placeholder for History Quiz."""
     pass
 def print_banner():
-dddef print_banner():
-ddddeeef print_banner():
+def print_banner():
+def print_banner():
+ddddeeeeef print_banner():
     print("Welcome to the History Quiz!")
 
 
