@@ -3,11 +3,12 @@ def history_quiz():
     """Main function placeholder for History Quiz."""
     pass
 def print_banner():
-<<<<<<< HEAD
 dddef print_banner():
+<<<<<<< HEAD
+ddddeeef print_banner():
 =======
-ddddef print_banner():
->>>>>>> tt
+ddddeeeeef print_banner():
+>>>>>>> sksp
     print("Welcome to the History Quiz!")
 
 
