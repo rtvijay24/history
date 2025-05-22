@@ -5,7 +5,8 @@ def history_quiz():
 def print_banner():
 def print_banner():
 def print_banner():
-dddeeeef print_banner():
+def print_banner():
+dddeeef print_banner():
     print("Welcome to the History Quiz!")
 
 
